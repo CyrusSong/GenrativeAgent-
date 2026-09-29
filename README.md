@@ -1,2 +1,2 @@
-# GenrativeAgent
+# GenerativeAgent
 Generative Agents: Interactive Simulacra of Human Behavior 学习笔记
